@@ -1,0 +1,10 @@
+.blb-wrap h1 .dashicons { vertical-align: middle; margin-right: 6px; }
+.blb-table td, .blb-table th { vertical-align: middle; padding: 8px 12px; }
+.blb-table input[type="text"] { width: 100%; }
+.blb-table .blb-drag-handle { cursor: grab; color: #aaa; font-size: 18px; }
+.blb-table .blb-drag-handle:active { cursor: grabbing; }
+.blb-table tr.blb-dragging { opacity: .4; }
+.blb-table tr { transition: background .1s; }
+.blb-table .blb-del-btn { color: #cc1818; background: none; border: none; cursor: pointer; padding: 4px 8px; }
+.blb-table .blb-del-btn:hover { text-decoration: underline; }
+#blb-add-svc .dashicons { vertical-align: middle; font-size: 16px; }
